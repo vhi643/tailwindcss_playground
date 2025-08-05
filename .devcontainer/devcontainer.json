@@ -24,6 +24,9 @@
 				"editor.quickSuggestions": {
 					"strings": "on"
 				},
+				"emmet.includeLanguages": {
+					"tailwindcss": "css"
+				},
 				"files.associations": {
 					"*.css": "tailwindcss"
 				},
